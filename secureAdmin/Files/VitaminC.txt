@@ -1,0 +1,22 @@
+﻿        <h2>Vitamin C</h2>
+        <p class="homePageParagraph">
+            Vitamin C is a water-soluble vitamin. It is needed for normal growth and development.
+            <br /><br />
+            Water-soluble vitamins dissolve in water. Leftover amounts of the vitamin leave the body through the urine. That means you need an ongoing supply of such vitamins in your diet.
+            <br /><br />
+            Function
+            Vitamin C is needed for the growth and repair of tissues in all parts of your body. It is used to:
+            <br /><br />
+            Form an important protein used to make skin, tendons, ligaments, and blood vessels
+            Heal wounds and form scar tissue
+            Repair and maintain cartilage, bones, and teeth
+            Aid in the absorption of iron
+            Vitamin C is one of many antioxidants. Antioxidants are nutrients that block some of the damage caused by free radicals.
+            <br /><br />
+            Free radicals are made when your body breaks down food or when you are exposed to tobacco smoke or radiation.
+            The buildup of free radicals over time is largely responsible for the aging process.
+            Free radicals may play a role in cancer, heart disease, and conditions like arthritis.
+            The body is not able to make vitamin C on its own, and it does not store vitamin C. It is therefore important to include plenty of vitamin C-containing foods in your daily diet.
+            <br /><br />
+            </p>
+            <h5>Information Source: <a href="https://medlineplus.gov/ency/article/002404.htm">https://medlineplus.gov/ency/article/002404.htm</a></h5>

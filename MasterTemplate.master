@@ -1,0 +1,109 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterTemplate.master.cs" Inherits="MasterTemplate" %>
+
+<!DOCTYPE html>
+
+<html>
+
+<head runat="server">
+    <title>Vitamins++</title>
+
+    <link href="Styles/StyleSheet2.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <script type="text/javascript" language="javascript">
+
+        /*
+            Prompts the user that they have logged out
+        */
+        function Func() {
+        alert("You Have logged out!")
+        }
+
+        /*
+            Prompts asking them if they want to empty their basket.
+        */
+        function areyousure() {
+            var reply = confirm("Empty basket contents... Are you sure?");
+            return reply;
+        }
+
+        /*
+            Prompts the user asking them if the want to purchase the displayed items.
+        */
+        function areyousurePurchase() {
+            var reply = confirm("Are you sure you want to Purchase these items?");
+            return reply;
+        }
+
+        /*
+            Prompts the user asking them if they are sure they want to logout.
+        */
+        function areyousureLogout() {
+            var reply = confirm("Are you sure you want to Logout?");
+            return reply;
+        }
+
+        /*
+            Prompts the user asking them if they sure they want confirm purchase of the items.
+        */
+        function areyousurePayment() {
+            var reply = confirm("Are you sure you want to Confirm Purchase");
+            return reply;
+        }
+
+        /*
+            Prompts the user telling they that they have input the wrong data.
+        */
+        function invalidInput()
+        {
+            alert("Invalid Input");
+            
+        }
+
+</script>
+
+</head>
+
+<body>
+
+    <form id="form1" runat="server">
+
+        <div class="headerBar">
+
+            <br />
+            <br />
+
+            <asp:Label class="pageTitle" runat="server" Text="Vitamins++"></asp:Label>
+
+        </div><!--headerBar-->
+        <div class="containerAndMenu">
+            <div class="menuBar">
+                    <asp:Button ID="btnHome" CssClass="navButtons" runat="server" Text="Home" OnClick="btnHome_Click"/>
+                    <asp:Button ID="btnLogin" CssClass="navButtons" runat="server" Text="Login" OnClick="btnLogin_Click"/>
+                    <asp:Button ID="btnLogOut" CssClass="navButtons" OnClientClick="areyousureLogout();" runat="server" Text="Logout" OnClick="btnLoginOut_Click"/>
+                    <asp:Button ID="btnShop" CssClass="navButtons" runat="server" Text="Shop" OnClick="btnShop_Click"/>
+                    <asp:Button ID="btnShoppingCart" CssClass="navButtons" runat="server" Text="Shopping Cart" OnClick="btnShoppingCart_Click" />
+                    <asp:Button ID="btnBlog" CssClass="navButtons" runat="server" Text="Blog" OnClick="btnBlog_Click" />
+                    <asp:Button ID="btnCalorie" CssClass="navButtons" runat="server" Text="Calories" OnClick="btnCalorie_Click"  />
+            </div>
+        
+        <div class="container">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+            </asp:ContentPlaceHolder>
+        </div>
+        
+        <!-- container -->
+        </div>
+        <div class="footerBar">
+            <br />
+            <br />
+            <asp:Label ID="footer" runat="server" Text="Health Website, 2018, Michael Watters."></asp:Label>
+        </div>
+        <!--FooterBar-->
+
+    </form>
+
+</body>
+
+</html>

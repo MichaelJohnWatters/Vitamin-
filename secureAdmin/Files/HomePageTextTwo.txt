@@ -1,0 +1,21 @@
+﻿<h2>Fish Oil Omega 3</h2>
+        <p class="homePageParagraph">
+            Fish oil is the fat or oil that's extracted from fish tissue.
+            <br /><br />
+            It usually comes from oily fish such as herring, tuna, anchovies and mackerel. Yet sometimes it's produced from the livers of other fish, as is the case with cod liver oil.
+            <br /><br />
+            The World Health Organization (WHO) recommends eating 1–2 portions of fish per week. This is because the omega-3 fatty acids in fish provide many health benefits, including helping protect against a number of diseases.
+            <br /><br />
+            But if you don't eat 1–2 portions of fish per week, fish oil supplements can help you get enough omega-3s.
+            <br /><br />
+            The benefits of fish oil for heart health include:
+            <br /><br />
+            Cholesterol levels: It can increase levels of HDL (the "good") cholesterol. However, it does not appear to reduce levels of LDL (the "bad") cholesterol.
+            Triglycerides: It can lower triglycerides by about 15–30%.
+            Blood pressure: Even in small doses, it helps reduce blood pressure in those with high blood pressure.
+            Plaques: It may prevent the plaques that form in arteries and cause them to harden, as well as make arterial plaques more stable and safer in those who already have them .
+            Fatal arrhythmias: In people who are at risk, it may reduce fatal arrhythmia events. Arrhythmias are abnormal heart rhythms that can cause heart attacks in certain cases .
+            Although fish oil supplementation can improve many of the risk factors for heart disease, there is no clear evidence that it can prevent heart attacks or strokes .
+            <br /><br />
+        </p>
+            <h5>Information Source: <a href="https://www.healthline.com/nutrition/13-benefits-of-fish-oil#section1">https://www.healthline.com/nutrition/13-benefits-of-fish-oil#section1</a></h5>

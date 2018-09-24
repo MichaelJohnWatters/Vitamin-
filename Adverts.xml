@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <!-- The URL for the ad image -->
+    <ImageUrl>Images/shopItem2.jpg</ImageUrl>
+    <!-- The URL the ad redirects the user to -->
+    <NavigateUrl>Shop.aspx</NavigateUrl>
+    <!-- The alternate text for the image -->
+    <AlternateText>Visit the Shop</AlternateText>
+    <!-- The relative number of times this ad should appear -->
+    <!-- compared to the others -->
+    <Impressions>1</Impressions>
+    <!-- The topic of this ad (used for filtering) -->
+    <Keyword>ProductInfo</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/vitaminc.jpg</ImageUrl>
+    <NavigateUrl>Shop.aspx</NavigateUrl>
+    <AlternateText>Support Angry Birds</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>VitaminC</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>Images/shopItem1.jpg</ImageUrl>
+    <NavigateUrl>Shop.aspx</NavigateUrl>
+    <AlternateText>Fish Oil</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>FishOil</Keyword>
+  </Ad>
+</Advertisements>

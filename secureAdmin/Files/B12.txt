@@ -1,0 +1,16 @@
+﻿        <h2>Vitamin B12</h2>
+        <p class="homePageParagraph">
+            Vitamin B12 and folate perform several important functions in the body, including keeping the nervous system healthy.
+            <br /><br />
+           Vitamin B12 or B9 (commonly called folate) deficiency anaemia occurs when a lack of vitamin B12 or folate causes the 
+		   body to produce abnormally large red blood cells that can't function properly.
+		   <br /><br />
+			Red blood cells carry oxygen around the body using a substance called haemoglobin.
+			<br /><br />
+			Anaemia is the general term for having either fewer red blood cells than normal or having an abnormally low amount of 
+			haemoglobin in each red blood cell.
+			<br /><br />
+			There are several different types of anaemia, and each one has a different cause. For example, iron deficiency anaemia, 
+			which occurs when the body doesn't contain enough iron.
+            </p>
+            <h5>Information Source: <a href="https://www.nhs.uk/conditions/vitamin-b12-or-folate-deficiency-anaemia/">https://www.nhs.uk/conditions/vitamin-b12-or-folate-deficiency-anaemia/</a></h5>
